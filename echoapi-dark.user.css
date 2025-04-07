@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name        Echo API Dark Contrasted
+@namespace   5jubs
+@version     1.0.1
+@homepageURL https://github.com/5jubsPRO/EchoAPI-Dark
+@updateURL   https://raw.githubusercontent.com/5jubsPRO/EchoAPI-Dark/main/echoapi-dark.user.css
+@license     CC0 - Public Domain
+@author      5jubs
+==/UserStyle== */
+/*! EchoAPI Dark v1.0.1 (2025-04-07) */
+/*! Repository: https://github.com/5jubsPRO/EchoAPI-Dark    */
+/*! License:    https://creativecommons.org/share-your-work/public-domain/cc0/ */
+@-moz-document domain("live.com") {
+	:root {
+		--color-bg-page: #000;
+		--color-bg-right: #000;
+		--color-bg-folder: #000;
+		--header-bg-color: #000;
+	}
+}
